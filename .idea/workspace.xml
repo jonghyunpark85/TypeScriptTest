@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca9950e1-3d38-4fb2-bb9c-85db3cb38863" name="Default Changelist" comment="TypeScript" />
+    <list default="true" id="ca9950e1-3d38-4fb2-bb9c-85db3cb38863" name="Default Changelist" comment="TypeScript">
+      <change afterPath="$PROJECT_DIR$/vtf/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-maskable-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-maskable-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/msapplication-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/registerServiceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/shims-tsx.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/views/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,17 +50,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1p90JlgUt0dmNPDzaokObDutDXZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Users\parkj\Desktop\TypeScriptTest\vtf\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614579928491</updated>
       <workItem from="1614579930266" duration="334000" />
+      <workItem from="1617815818538" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="TypeScript">
       <created>1614580170779</created>
@@ -69,8 +117,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TypeScript" />
     <option name="LAST_COMMIT_MESSAGE" value="TypeScript" />
   </component>
