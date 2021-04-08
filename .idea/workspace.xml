@@ -2,44 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9950e1-3d38-4fb2-bb9c-85db3cb38863" name="Default Changelist" comment="TypeScript">
-      <change afterPath="$PROJECT_DIR$/vtf/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-maskable-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-maskable-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/msapplication-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/img/icons/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/registerServiceWorker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/router/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/shims-tsx.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/shims-vue.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/store/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/views/About.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/views/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/plugins/vuetify.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/src/shims-vuetify.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtf/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vtf/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +18,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/jonghyunpark85/TypeScriptTest" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1p90JlgUt0dmNPDzaokObDutDXZ" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -79,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614579928491</updated>
       <workItem from="1614579930266" duration="334000" />
-      <workItem from="1617815818538" duration="989000" />
+      <workItem from="1617815818538" duration="1488000" />
     </task>
     <task id="LOCAL-00001" summary="TypeScript">
       <created>1614580170779</created>
@@ -95,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614580241803</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Vue.js with TypeScript first">
+      <created>1617816864379</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617816864379</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +95,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -122,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TypeScript" />
-    <option name="LAST_COMMIT_MESSAGE" value="TypeScript" />
+    <MESSAGE value="Vue.js with TypeScript first" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vue.js with TypeScript first" />
   </component>
 </project>
