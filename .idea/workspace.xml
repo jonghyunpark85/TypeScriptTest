@@ -2,18 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9950e1-3d38-4fb2-bb9c-85db3cb38863" name="Default Changelist" comment="TypeScript">
-      <change afterPath="$PROJECT_DIR$/vtf/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/plugins/vuetify.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/src/shims-vuetify.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vtf/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/ProjectSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/TypeScriptTest/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alias/Person.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alias/type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/generic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/queue.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/queue2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/reverse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/reverse2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/reverse3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/student.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Type/basic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Type/casting.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Type/inference.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Type/static.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Type/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/abstract.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/foo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/foo2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/foo3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/person.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/random.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/static.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/static2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/IDuck.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/IPerson.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/IPerson2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/ITodo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/Person.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/UserInfo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/basic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/extends.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/function.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/moreExtends.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/todo.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vtf/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/Test/greeting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greeting.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Test/greeting.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-maskable-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-maskable-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/msapplication-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/components/layout/auth.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/components/layout/nomal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/plugins/vuetify.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/registerServiceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/router/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/shims-tsx.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/shims-vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/shims-vuetify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/store/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vtf/vue.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="package.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,16 +125,29 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Type" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
-    <property name="ts.external.directory.path" value="C:\Users\parkj\Desktop\TypeScriptTest\vtf\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\parkj\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.7717.59\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\parkj\Desktop\TypeScriptTest\Type" />
+      <recent name="C:\Users\parkj\Desktop\TypeScriptTest\Test" />
+      <recent name="C:\Users\parkj\Desktop\TypeScriptTest\travelsite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\parkj\Desktop\TypeScriptTest\Test" />
+      <recent name="C:\Users\parkj\Desktop\TypeScriptTest\travelsite" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,6 +159,10 @@
       <updated>1614579928491</updated>
       <workItem from="1614579930266" duration="334000" />
       <workItem from="1617815818538" duration="1488000" />
+      <workItem from="1617894199824" duration="7092000" />
+      <workItem from="1618155907301" duration="2929000" />
+      <workItem from="1618189233007" duration="4849000" />
+      <workItem from="1618197206087" duration="544000" />
     </task>
     <task id="LOCAL-00001" summary="TypeScript">
       <created>1614580170779</created>
@@ -78,15 +185,53 @@
       <option name="project" value="LOCAL" />
       <updated>1617816864379</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second">
+      <created>1617894218401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617894218401</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/greeting.js" />
-        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/Test/app.js" />
+        <option value="$PROJECT_DIR$/Test/student.js" />
+        <option value="$PROJECT_DIR$/Type/basic.js" />
+        <option value="$PROJECT_DIR$/Type/static.js" />
+        <option value="$PROJECT_DIR$/Type/inference.js" />
+        <option value="$PROJECT_DIR$/Type/casting.js" />
+        <option value="$PROJECT_DIR$/class/foo.js" />
+        <option value="$PROJECT_DIR$/class/person.js" />
+        <option value="$PROJECT_DIR$/class/foo2.js" />
+        <option value="$PROJECT_DIR$/class/foo3.js" />
+        <option value="$PROJECT_DIR$/class/static.js" />
+        <option value="$PROJECT_DIR$/class/abstract.js" />
+        <option value="$PROJECT_DIR$/class/random.js" />
+        <option value="$PROJECT_DIR$/class/static2.js" />
+        <option value="$PROJECT_DIR$/interface/IPerson2.js" />
+        <option value="$PROJECT_DIR$/interface/function.js" />
+        <option value="$PROJECT_DIR$/interface/UserInfo.js" />
+        <option value="$PROJECT_DIR$/interface/todo.js" />
+        <option value="$PROJECT_DIR$/interface/IDuck.js" />
+        <option value="$PROJECT_DIR$/interface/moreExtends.js" />
+        <option value="$PROJECT_DIR$/interface/extends.js" />
+        <option value="$PROJECT_DIR$/interface/Person.js" />
+        <option value="$PROJECT_DIR$/interface/IPerson.js" />
+        <option value="$PROJECT_DIR$/interface/ITodo.js" />
+        <option value="$PROJECT_DIR$/interface/basic.js" />
+        <option value="$PROJECT_DIR$/Alias/Person.js" />
+        <option value="$PROJECT_DIR$/Alias/type.js" />
+        <option value="$PROJECT_DIR$/Generic/queue2.js" />
+        <option value="$PROJECT_DIR$/Generic/reverse3.js" />
+        <option value="$PROJECT_DIR$/Generic/generic.js" />
+        <option value="$PROJECT_DIR$/Generic/queue.js" />
+        <option value="$PROJECT_DIR$/Generic/reverse.js" />
+        <option value="$PROJECT_DIR$/Generic/reverse2.js" />
       </list>
     </option>
   </component>
@@ -118,6 +263,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TypeScript" />
     <MESSAGE value="Vue.js with TypeScript first" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vue.js with TypeScript first" />
+    <MESSAGE value="Second" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second" />
   </component>
 </project>
