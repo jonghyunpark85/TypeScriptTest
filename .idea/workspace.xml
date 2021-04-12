@@ -2,93 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9950e1-3d38-4fb2-bb9c-85db3cb38863" name="Default Changelist" comment="TypeScript">
-      <change afterPath="$PROJECT_DIR$/.vs/ProjectSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/TypeScriptTest/v16/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alias/Person.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alias/type.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/generic.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/queue.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/queue2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/reverse.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/reverse2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/reverse3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/student.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Type/basic.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Type/casting.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Type/inference.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Type/static.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Type/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/abstract.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/foo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/foo2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/foo3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/person.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/random.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/static.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/static2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/IDuck.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/IPerson.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/IPerson2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/ITodo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/Person.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/UserInfo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/basic.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/extends.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/function.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/moreExtends.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/todo.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/Test/greeting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Test/greeting.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-maskable-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/android-chrome-maskable-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/msapplication-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/img/icons/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/components/layout/auth.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/components/layout/nomal.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/plugins/vuetify.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/registerServiceWorker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/router/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/shims-tsx.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/shims-vue.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/shims-vuetify.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/store/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/views/About.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/src/views/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtf/vue.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +76,7 @@
       <workItem from="1617894199824" duration="7092000" />
       <workItem from="1618155907301" duration="2929000" />
       <workItem from="1618189233007" duration="4849000" />
-      <workItem from="1618197206087" duration="544000" />
+      <workItem from="1618197206087" duration="1445000" />
     </task>
     <task id="LOCAL-00001" summary="TypeScript">
       <created>1614580170779</created>
@@ -192,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617894218401</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="TypeScript">
+      <created>1618197826967</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618197826967</updated>
+    </task>
+    <task id="LOCAL-00006" summary="TypeScript">
+      <created>1618197875061</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618197875061</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,9 +189,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="TypeScript" />
     <MESSAGE value="Vue.js with TypeScript first" />
     <MESSAGE value="Second" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second" />
+    <MESSAGE value="TypeScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="TypeScript" />
   </component>
 </project>
